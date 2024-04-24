@@ -1,0 +1,16 @@
+{
+    "name": "mbacher/random-bool",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mbacher\\RandomBool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Bacher",
+            "email": "mbacher@schueler.hakzell.at"
+        }
+    ],
+    "require": {}
+}
