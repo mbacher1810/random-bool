@@ -3,6 +3,6 @@
 ## Configuration
 
 ```php
-namespace Mbacher/RandomBool
-require 'vendor'
+namespace Mbacher\RandomBool;
+require 'vendor/autoload.php';
 ```
